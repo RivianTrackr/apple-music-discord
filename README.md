@@ -2,6 +2,8 @@
 
 Show what you're playing in Apple Music on your Discord profile, the same way Spotify does.
 
+<img src="docs/screenshot.png" alt="Discord profile showing Listening to Apple Music with album art, song, artist, album and progress bar" width="480">
+
 - "Listening to" status with song, artist and album
 - Album artwork pulled from Apple Music
 - Live progress bar that follows skips and seeks
